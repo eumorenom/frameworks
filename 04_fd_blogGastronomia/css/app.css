@@ -1,0 +1,31 @@
+body{
+	background-image: url('../img/7.jpg');
+}
+.bgencabezado{
+	background-color:  #6E6E6E;
+}
+.bgcizquierda{
+	background-color: #A4A4A4;
+}
+.bgcderecha{
+	background-color: #F5A9E1;
+}
+
+.centrarencabezado{
+	 /*   display: flex;
+justify-content: center;
+align-items: center; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   vertical-align: middle;
+}
+
+ H1 { text-align: center;}
+ 
+ .foto img{
+  width: 100%;
+ margin: auto;
+
+}
+ 
