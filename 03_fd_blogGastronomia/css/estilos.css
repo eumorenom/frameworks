@@ -1,14 +1,20 @@
 body{
 	background-image: url('../img/7.jpg');
 }
+
+ /* div{
+   border: 1px solid yellow;
+   padding: 1px; 
+} */
 .bgencabezado{
-	background-color:  #6E6E6E;
+	background-color:  #9c9c9c;
 }
+
 .bgcizquierda{
 	background-color: #A4A4A4;
 }
 .bgcderecha{
-	background-color: #F5A9E1;
+	background-color:  #FFDAB9;
 }
 
 .centrarencabezado{
@@ -24,8 +30,20 @@ align-items: center; */
  H1 { text-align: center;}
  
  .foto img{
+  
   width: 100%;
- margin: auto;
+  height: 100%;
+ 
 
 }
+.sizefoto{
+   width: 15%;
+   height: 15%;
+}
  
+
+   .opacity{
+      background-color #fceec7;
+      opacity:0.9;
+     
+}
